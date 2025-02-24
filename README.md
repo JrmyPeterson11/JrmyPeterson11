@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JrmyPeterson11
 - 👀 I’m interested in Challenges in Data Visualisation and Data Analysis (C, SQL, Python, Rstudio, Tableau)
-- 🌱 I Graduated in May 2023 with a Master in Information Systems Management and Data Analytics From Rider University, USA
+- 🌱 Currently enrolled in Neoma Marketing & Data Analytics Specialized Masters, I Graduated in May 2023 with a Master in Information Systems and Data Analytics From Rider University, USA
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/jeremy-peterson11/
 - 😄 Pronouns: He/Him
